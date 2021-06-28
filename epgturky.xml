@@ -1,12 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
 	<channel id="+ערוץ הדרמה הטורקיות">
-		<display-name>+ערוץ הדרמה הטורקיות</display-name>
-	<programme start="20210622060500 +0300" stop="20210622065200 +0300" channel="+ערוץ הדרמה הטורקיות">
+		<display-name>1</display-name>
+	<programme start="20212806045200 +0300" stop="20212906050000 +0300" channel="ערוץ הדרמה הטורקיות+">
 		<title>אדמה מרה 3 פרק 268</title>
 		<desc>אומיט נסערת לאחר העימות עם סוודה. דמיר משוכנע שהאדם שפרץ למפעל החלב הוא זה ששלח לו את המכתב. פקלי מתעמת עם פיקרט לאחר שמצא אותו במפעל החלב. סוודה מוצאת מכתב נוסף המיועד לדמיר ונחרדת מתכולתו.</desc>
 	</programme>		
 			<channel id="+ערוץ הדרמה הטורקיות 2">
 		<display-name>+ערוץ הדרמה הטורקיות 2</display-name>
-	<programme start="202126062210700 +0300" stop="20210622065200 +0300" channel="11">
+	<programme start="202126062210700 +0300" stop="20210622065200 +0300" channel="+2 ערוץ הדרמה הטורקיות ">
 		<title></title>
 		<desc></desc>
 	</programme>		
+	
+</tv>
