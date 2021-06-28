@@ -5,12 +5,12 @@
     <url>http://www.hot.net.il</url>
 	  </channel>
 
-	  <channel id="yes.co.il">
+	  <channel id="yes.co.il/content/tvguide">
     <display-name lang="he">turkish drama 2</display-name>
-    <url>http://yes.co.il</url>
+    <url>https://www.yes.co.il/content/tvguide</url>
 	  </channel>
 
-<programme start="20160215020000 +0200" stop="20160215050000 +0200" channel="yes.co.il">
+<programme start="20160215020000 +0200" stop="20160215050000 +0200" channel="yes.co.il/content/tvguide">
     <title lang="he">סשן לכל הלילה</title>
     <sub-title lang="he">[תרבות בידור ומוסיקה]</sub-title>
     <desc lang="he">הפסקול הכי לוהט ללילה</desc>
