@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VIP IL:Turkish Dramas Plus FHD">
+    <display-name lang="he">VIP IL:Turkish Dramas Plus FHD</display-name>
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <channel id="VIP IL: Turkish Drama 2">
+    <display-name lang="he">VIP IL: Turkish Drama 2</display-name>
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <channel id="VIP IL:Yam Tihoni">
+    <display-name lang="he">VIP IL:Yam Tihoni</display-name>
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <programme start="20210719070500 +0300" stop="20210719074700 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">בת השגריר</title>
+  </programme>
+  <programme start="20210719074700 +0300" stop="20210719082900 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! כאב האהבה</title>
+  </programme>
+  <programme start="20210719082900 +0300" stop="20210719091100 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">רוחות של אהבה עונה 3</title>
+  </programme>
+  <programme start="20210719091100 +0300" stop="20210719100300 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">אדמה מרה 3</title>
+  </programme>
+  <programme start="20210719100300 +0300" stop="20210719104500 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">פנינה שחורה</title>
+  </programme>
+  <programme start="20210719104500 +0300" stop="20210719112700 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">רוחות של אהבה עונה 3</title>
+  </programme>
+  <programme start="20210719112700 +0300" stop="20210719120900 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">בת השגריר</title>
+  </programme>
+  <programme start="20210719120900 +0300" stop="20210719125200 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! כאב האהבה</title>
+  </programme>
+  <programme start="20210719125200 +0300" stop="20210719134400 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">אדמה מרה 3</title>
+  </programme>
+  <programme start="20210719134400 +0300" stop="20210719143000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! הבור עונה 4</title>
+  </programme>
+  <programme start="20210719143000 +0300" stop="20210719151200 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">רוחות של אהבה עונה 3</title>
+  </programme>
+  <programme start="20210719151200 +0300" stop="20210719155400 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">בת השגריר</title>
+  </programme>
+  <programme start="20210719155400 +0300" stop="20210719163600 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! כאב האהבה</title>
+  </programme>
+  <programme start="20210719163600 +0300" stop="20210719172800 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">אדמה מרה 3</title>
+  </programme>
+  <programme start="20210719172800 +0300" stop="20210719181500 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! הבור עונה 4</title>
+  </programme>
+  <programme start="20210719181500 +0300" stop="20210719190000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">רוחות של אהבה עונה 3</title>
+  </programme>
+  <programme start="20210719190000 +0300" stop="20210719195000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">בת השגריר</title>
+  </programme>
+  <programme start="20210719195000 +0300" stop="20210719204000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! כאב האהבה</title>
+  </programme>
+  <programme start="20210719204000 +0300" stop="20210719213000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">אדמה מרה 3</title>
+  </programme>
+  <programme start="20210719213000 +0300" stop="20210719222000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">חדש! הבור עונה 4</title>
+  </programme>
+  <programme start="20210719222000 +0300" stop="20210719230500 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">רוחות של אהבה עונה 3</title>
+  </programme>
+  <programme start="20210719230500 +0300" stop="20210719235000 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
+    <title lang="he">פנינה שחורה</title>
+  </programme>
+  <programme start="20210719065400 +0300" stop="20210719074000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חלום מתוק</title>
+  </programme>
+  <programme start="20210719074000 +0300" stop="20210719082400 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">זעקת אם 2</title>
+  </programme>
+  <programme start="20210719082400 +0300" stop="20210719090900 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חדש! הקש על דלתי</title>
+  </programme>
+  <programme start="20210719090900 +0300" stop="20210719095500 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">החיים האחרים</title>
+  </programme>
+  <programme start="20210719095500 +0300" stop="20210719104500 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">גולפרי</title>
+  </programme>
+  <programme start="20210719104500 +0300" stop="20210719112900 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">למען בני - עונה 2</title>
+  </programme>
+  <programme start="20210719112900 +0300" stop="20210719121500 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חלום מתוק</title>
+  </programme>
+  <programme start="20210719121500 +0300" stop="20210719125600 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">זעקת אם 2</title>
+  </programme>
+  <programme start="20210719125600 +0300" stop="20210719134100 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חדש! הקש על דלתי</title>
+  </programme>
+  <programme start="20210719134100 +0300" stop="20210719142700 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">החיים האחרים</title>
+  </programme>
+  <programme start="20210719142700 +0300" stop="20210719151600 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">גולפרי</title>
+  </programme>
+  <programme start="20210719151600 +0300" stop="20210719155800 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">למען בני - עונה 2</title>
+  </programme>
+  <programme start="20210719155800 +0300" stop="20210719164000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">זעקת אם 2</title>
+  </programme>
+  <programme start="20210719164000 +0300" stop="20210719172500 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חלום מתוק</title>
+  </programme>
+  <programme start="20210719172500 +0300" stop="20210719181500 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">גולפרי</title>
+  </programme>
+  <programme start="20210719181500 +0300" stop="20210719190000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">זעקת אם 2</title>
+  </programme>
+  <programme start="20210719190000 +0300" stop="20210719195000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חדש! הקש על דלתי</title>
+  </programme>
+  <programme start="20210719195000 +0300" stop="20210719204000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">החיים האחרים</title>
+  </programme>
+  <programme start="20210719204000 +0300" stop="20210719213000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חלום מתוק</title>
+  </programme>
+  <programme start="20210719213000 +0300" stop="20210719222000 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">למען בני - עונה 2</title>
+  </programme>
+  <programme start="20210719222000 +0300" stop="20210719230500 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">זעקת אם 2</title>
+  </programme>
+  <programme start="20210719230500 +0300" stop="20210719235200 +0300" channel="VIP IL: Turkish Drama 2">
+    <title lang="he">חדש! הקש על דלתי</title>
+  </programme>
+  <programme start="20210719065500 +0300" stop="20210719074200 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">להבות של תשוקה</title>
+  </programme>
+  <programme start="20210719074200 +0300" stop="20210719082700 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">כנפיים שבורות</title>
+  </programme>
+  <programme start="20210719082700 +0300" stop="20210719091000 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! הזמן שחולף</title>
+  </programme>
+  <programme start="20210719091000 +0300" stop="20210719095600 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">להבות של תשוקה</title>
+  </programme>
+  <programme start="20210719095600 +0300" stop="20210719104200 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! 8 מילים</title>
+  </programme>
+  <programme start="20210719104200 +0300" stop="20210719112700 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">כנפיים שבורות</title>
+  </programme>
+  <programme start="20210719112700 +0300" stop="20210719121000 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! לשאת את הלב</title>
+  </programme>
+  <programme start="20210719121000 +0300" stop="20210719125300 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">אהבה להשכרה</title>
+  </programme>
+  <programme start="20210719125300 +0300" stop="20210719133600 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! הזמן שחולף</title>
+  </programme>
+  <programme start="20210719133600 +0300" stop="20210719142600 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">מחיר התשוקה</title>
+  </programme>
+  <programme start="20210719142600 +0300" stop="20210719151200 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! 8 מילים</title>
+  </programme>
+  <programme start="20210719151200 +0300" stop="20210719155800 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">להבות של תשוקה</title>
+  </programme>
+  <programme start="20210719155800 +0300" stop="20210719164200 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">אהבה להשכרה</title>
+  </programme>
+  <programme start="20210719164200 +0300" stop="20210719172500 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! לשאת את הלב</title>
+  </programme>
+  <programme start="20210719172500 +0300" stop="20210719181500 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! הזמן שחולף</title>
+  </programme>
+  <programme start="20210719181500 +0300" stop="20210719190000 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! הזמן שחולף</title>
+  </programme>
+  <programme start="20210719190000 +0300" stop="20210719195000 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">אהבה להשכרה</title>
+  </programme>
+  <programme start="20210719195000 +0300" stop="20210719204000 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! לשאת את הלב</title>
+  </programme>
+  <programme start="20210719204000 +0300" stop="20210719213000 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">חדש! 8 מילים</title>
+  </programme>
+  <programme start="20210719213000 +0300" stop="20210719221500 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">להבות של תשוקה</title>
+  </programme>
+  <programme start="20210719221500 +0300" stop="20210719230200 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">כנפיים שבורות</title>
+  </programme>
+  <programme start="20210719230200 +0300" stop="20210719234400 +0300" channel="VIP IL:Yam Tihoni">
+    <title lang="he">אהבה להשכרה</title>
+  </programme>
+</tv>
