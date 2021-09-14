@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CINEMA KIDS HD">
-    <display-name lang="he">CINEMA KIDS HD</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT SENIOR HD">
-    <display-name lang="he">HOT SENIOR HD</display-name>
-    <url>http://www.hot.net.il</url>
+  <channel id="yes MOVIES KIDS">
+    <display-name lang="he">yes MOVIES KIDS</display-name>
+    <url>http://www.yes.co.il</url>
   </channel>
   <channel id="VIP IL:Turkish Dramas Plus FHD">
     <display-name lang="he">VIP IL:Turkish Dramas Plus FHD</display-name>
@@ -68,58 +64,285 @@
     <display-name lang="he">Gold</display-name>
     <url>http://www.yes.co.il</url>
   </channel>
-  <channel id="HOT HBO">
-    <display-name lang="he">HOT HBO</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT3">
-    <display-name lang="he">HOT3</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT Bollywood">
-    <display-name lang="he">HOT Bollywood</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="Hot Zone">
-    <display-name lang="he">Hot Zone</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT קומדי סנטרל">
-    <display-name lang="he">HOT קומדי סנטרל</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT בידור ישראלי">
-    <display-name lang="he">HOT בידור ישראלי</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="ערוץ 8">
-    <display-name lang="he">ערוץ 8</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT Real">
-    <display-name lang="he">HOT Real</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT VOD Cinema">
-    <display-name lang="he">HOT VOD Cinema</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT cinema 1">
-    <display-name lang="he">HOT cinema 1</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT cinema 2">
-    <display-name lang="he">HOT cinema 2</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT cinema 3">
-    <display-name lang="he">HOT cinema 3</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
-  <channel id="HOT cinema 4">
-    <display-name lang="he">HOT cinema 4</display-name>
-    <url>http://www.hot.net.il</url>
-  </channel>
+  <programme start="20210914064600 +0300" stop="20210914081800 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">בחזרה לארץ עוץ (מדובב)</title>
+  </programme>
+  <programme start="20210914081800 +0300" stop="20210914093400 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">פגוש את היונים (מדובב)</title>
+  </programme>
+  <programme start="20210914093400 +0300" stop="20210914110000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אופססס! בול הגיע המבול...(מדובב)</title>
+  </programme>
+  <programme start="20210914110000 +0300" stop="20210914122400 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">לעוף על אפריקה (מדובב)</title>
+  </programme>
+  <programme start="20210914122400 +0300" stop="20210914140200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">הצילו! כיווצתי את ההורים (מדובב)</title>
+  </programme>
+  <programme start="20210914140200 +0300" stop="20210914154200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">ארתור 3: מלחמת שני העולמות (מדובב)</title>
+  </programme>
+  <programme start="20210914154200 +0300" stop="20210914161200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210914161200 +0300" stop="20210914164100 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210914164100 +0300" stop="20210914180500 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">לעוף על אפריקה (מדובב)</title>
+  </programme>
+  <programme start="20210914180500 +0300" stop="20210914193100 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אופססס! בול הגיע המבול..</title>
+  </programme>
+  <programme start="20210914193100 +0300" stop="20210914210900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">סוניק</title>
+  </programme>
+  <programme start="20210914210900 +0300" stop="20210914224300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">קונג פו פנדה 3</title>
+  </programme>
+  <programme start="20210914224300 +0300" stop="20210914231300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210914231300 +0300" stop="20210914234200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210914234200 +0300" stop="20210915000000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210915000000 +0300" stop="20210915030000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210915030000 +0300" stop="20210915060000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210915060000 +0300" stop="20210915090000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210915090000 +0300" stop="20210915120000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210915120000 +0300" stop="20210915140000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210915140000 +0300" stop="20210915150000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210915150000 +0300" stop="20210915180000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210915180000 +0300" stop="20210915210000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210915210000 +0300" stop="20210916000000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916000000 +0300" stop="20210916030000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916030000 +0300" stop="20210916060000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916060000 +0300" stop="20210916090000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916090000 +0300" stop="20210916120000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916120000 +0300" stop="20210916150000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916150000 +0300" stop="20210916180000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916180000 +0300" stop="20210916200000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">יום כיפור</title>
+  </programme>
+  <programme start="20210916200000 +0300" stop="20210916210000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210916210000 +0300" stop="20210917000000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210917000000 +0300" stop="20210917030000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210917030000 +0300" stop="20210917060000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210917060000 +0300" stop="20210917061700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">השידורים יתחדשו בקרוב</title>
+  </programme>
+  <programme start="20210917061700 +0300" stop="20210917064300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">וואלאס וגרומיט</title>
+  </programme>
+  <programme start="20210917064300 +0300" stop="20210917080700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">לעוף על אפריקה (מדובב)</title>
+  </programme>
+  <programme start="20210917080700 +0300" stop="20210917093300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אופססס! בול הגיע המבול...(מדובב)</title>
+  </programme>
+  <programme start="20210917093300 +0300" stop="20210917110000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">הרפתקה מוטרפת במוזיאון (מדובב)</title>
+  </programme>
+  <programme start="20210917110000 +0300" stop="20210917122600 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החיים הסודיים של חיות המחמד (מדובב)</title>
+  </programme>
+  <programme start="20210917122600 +0300" stop="20210917141000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">הדרדסים 2 (מדובב)</title>
+  </programme>
+  <programme start="20210917141000 +0300" stop="20210917155500 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מראה מראה: הסיפור האמיתי (מדובב)</title>
+  </programme>
+  <programme start="20210917155500 +0300" stop="20210917162200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210917162200 +0300" stop="20210917164700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210917164700 +0300" stop="20210917183100 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">הדרדסים 2</title>
+  </programme>
+  <programme start="20210917183100 +0300" stop="20210917201100 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">ארתור 3: מלחמת שני העולמות (מדובב)</title>
+  </programme>
+  <programme start="20210917201100 +0300" stop="20210917213700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החיים הסודיים של חיות המחמד</title>
+  </programme>
+  <programme start="20210917213700 +0300" stop="20210917232200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מראה מראה: הסיפור האמיתי</title>
+  </programme>
+  <programme start="20210917232200 +0300" stop="20210917234900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210917234900 +0300" stop="20210917234900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210917234900 +0300" stop="20210918001500 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210918001500 +0300" stop="20210918061300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">השידורים יתחדשו בקרוב</title>
+  </programme>
+  <programme start="20210918061300 +0300" stop="20210918073900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החיים הסודיים של חיות המחמד (מדובב)</title>
+  </programme>
+  <programme start="20210918073900 +0300" stop="20210918092300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">הדרדסים 2 (מדובב)</title>
+  </programme>
+  <programme start="20210918092300 +0300" stop="20210918110000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אנגרי בירדס (מדובב)</title>
+  </programme>
+  <programme start="20210918110000 +0300" stop="20210918123600 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אנגרי בירדס הסרט 2 (מדובב)</title>
+  </programme>
+  <programme start="20210918123600 +0300" stop="20210918141600 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">ארתור 3: מלחמת שני העולמות (מדובב)</title>
+  </programme>
+  <programme start="20210918141600 +0300" stop="20210918160300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">לשיר (מדובב)</title>
+  </programme>
+  <programme start="20210918160300 +0300" stop="20210918162900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210918162900 +0300" stop="20210918165700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210918165700 +0300" stop="20210918184200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מראה מראה: הסיפור האמיתי</title>
+  </programme>
+  <programme start="20210918184200 +0300" stop="20210918201000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">כלב מגניב</title>
+  </programme>
+  <programme start="20210918201000 +0300" stop="20210918214600 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אנגרי בירדס הסרט 2</title>
+  </programme>
+  <programme start="20210918214600 +0300" stop="20210918233300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">לשיר</title>
+  </programme>
+  <programme start="20210918233300 +0300" stop="20210918235900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210918235900 +0300" stop="20210918235900 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210918235900 +0300" stop="20210919002700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210919002700 +0300" stop="20210919030000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919030000 +0300" stop="20210919060000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919060000 +0300" stop="20210919090000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919090000 +0300" stop="20210919120000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919120000 +0300" stop="20210919150000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919150000 +0300" stop="20210919180000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919180000 +0300" stop="20210919210000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210919210000 +0300" stop="20210920000000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210920000000 +0300" stop="20210920030000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210920030000 +0300" stop="20210920060000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">מחכים לכם בשישי ב</title>
+  </programme>
+  <programme start="20210920060000 +0300" stop="20210920061700 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">השידורים יתחדשו בקרוב</title>
+  </programme>
+  <programme start="20210920061700 +0300" stop="20210920075300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אנגרי בירדס הסרט 2 (מדובב)</title>
+  </programme>
+  <programme start="20210920075300 +0300" stop="20210920093000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">אנגרי בירדס (מדובב)</title>
+  </programme>
+  <programme start="20210920093000 +0300" stop="20210920110000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">נורם בעיר הגדולה 3 (מדובב)</title>
+  </programme>
+  <programme start="20210920110000 +0300" stop="20210920123200 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">ביגפוט ג'וניור (מדובב)</title>
+  </programme>
+  <programme start="20210920123200 +0300" stop="20210920140800 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">ריו (מדובב)</title>
+  </programme>
+  <programme start="20210920140800 +0300" stop="20210920154600 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">הצילו! כיווצתי את ההורים (מדובב)</title>
+  </programme>
+  <programme start="20210920154600 +0300" stop="20210920161300 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210920161300 +0300" stop="20210920163800 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
+  <programme start="20210920163800 +0300" stop="20210920180800 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">נורם בעיר הגדולה 3 (מדובב)</title>
+  </programme>
+  <programme start="20210920180800 +0300" stop="20210920195500 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">לשיר (מדובב)</title>
+  </programme>
+  <programme start="20210920195500 +0300" stop="20210920213000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">ריו (אנגלית)</title>
+  </programme>
+  <programme start="20210920213000 +0300" stop="20210920225800 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">כלב מגניב</title>
+  </programme>
+  <programme start="20210920225800 +0300" stop="20210920232500 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">PPS</title>
+  </programme>
+  <programme start="20210920232500 +0300" stop="20210920235000 +0300" channel="yes MOVIES KIDS">
+    <title lang="he">החממה 3</title>
+  </programme>
   <programme start="20210914070800 +0300" stop="20210914075300 +0300" channel="VIP IL:Turkish Dramas Plus FHD">
     <title lang="he">בת השגריר</title>
   </programme>
@@ -5884,19 +6107,19 @@
     <title lang="he">יאנג בויז</title>
   </programme>
   <programme start="20210915083000 +0300" stop="20210915101500 +0300" channel="liveHD">
-    <title lang="he">צ'לסי</title>
-  </programme>
-  <programme start="20210915101500 +0300" stop="20210915120000 +0300" channel="liveHD">
     <title lang="he">ערוץ הקיבוץ, ליגת האלופות</title>
   </programme>
-  <programme start="20210915120000 +0300" stop="20210915122000 +0300" channel="liveHD">
+  <programme start="20210915101500 +0300" stop="20210915115500 +0300" channel="liveHD">
+    <title lang="he">צ'לסי</title>
+  </programme>
+  <programme start="20210915115500 +0300" stop="20210915123500 +0300" channel="liveHD">
     <title lang="he">ה. י-ם - בית''ר י</title>
   </programme>
-  <programme start="20210915122000 +0300" stop="20210915140500 +0300" channel="liveHD">
-    <title lang="he">ברצלונה</title>
-  </programme>
-  <programme start="20210915140500 +0300" stop="20210915160000 +0300" channel="liveHD">
+  <programme start="20210915123500 +0300" stop="20210915142000 +0300" channel="liveHD">
     <title lang="he">יאנג בויז</title>
+  </programme>
+  <programme start="20210915142000 +0300" stop="20210915160000 +0300" channel="liveHD">
+    <title lang="he">ערוץ הקיבוץ, ליגת האלופות</title>
   </programme>
   <programme start="20210915160000 +0300" stop="20210915180000 +0300" channel="liveHD">
     <title lang="he">יום כיפור - נשוב לשדר מחר ב</title>
@@ -5925,22 +6148,19 @@
   <programme start="20210916180000 +0300" stop="20210916200000 +0300" channel="liveHD">
     <title lang="he">יום כיפור - נשוב לשדר ב</title>
   </programme>
-  <programme start="20210916200000 +0300" stop="20210916204000 +0300" channel="liveHD">
+  <programme start="20210916200000 +0300" stop="20210916210000 +0300" channel="liveHD">
     <title lang="he">יאנג בויז</title>
-  </programme>
-  <programme start="20210916204000 +0300" stop="20210916210000 +0300" channel="liveHD">
-    <title lang="he">מאלמו</title>
   </programme>
   <programme start="20210916210000 +0300" stop="20210916224500 +0300" channel="liveHD">
     <title lang="he">אינטר</title>
   </programme>
   <programme start="20210916224500 +0300" stop="20210916224500 +0300" channel="liveHD">
-    <title lang="he">ישיר! סיאטל</title>
+    <title lang="he">ישיר! סן פרנסיסקו</title>
   </programme>
-  <programme start="20210916224500 +0300" stop="20210917020500 +0300" channel="liveHD">
-    <title lang="he">ישיר! סיאטל</title>
+  <programme start="20210916224500 +0300" stop="20210917020000 +0300" channel="liveHD">
+    <title lang="he">ישיר! סן פרנסיסקו</title>
   </programme>
-  <programme start="20210917020500 +0300" stop="20210917030000 +0300" channel="liveHD">
+  <programme start="20210917020000 +0300" stop="20210917030000 +0300" channel="liveHD">
     <title lang="he">יאנג בויז</title>
   </programme>
   <programme start="20210917030000 +0300" stop="20210917063000 +0300" channel="liveHD">
@@ -6093,26 +6313,17 @@
   <programme start="20210914172500 +0300" stop="20210914175500 +0300" channel="Gold">
     <title lang="he">מ. ת''א</title>
   </programme>
-  <programme start="20210914175500 +0300" stop="20210914200000 +0300" channel="Gold">
-    <title lang="he">ישיר! הטור הביניבשתי, זאגרב</title>
+  <programme start="20210914175500 +0300" stop="20210914195500 +0300" channel="Gold">
+    <title lang="he">המאמן קליפארי</title>
   </programme>
-  <programme start="20210914200000 +0300" stop="20210914203000 +0300" channel="Gold">
-    <title lang="he">בובה של לילה 2</title>
+  <programme start="20210914195500 +0300" stop="20210914220000 +0300" channel="Gold">
+    <title lang="he">ישיר! מוקדמות: פארמה פרם</title>
   </programme>
-  <programme start="20210914203000 +0300" stop="20210914220000 +0300" channel="Gold">
-    <title lang="he">מ. חיפה</title>
+  <programme start="20210914220000 +0300" stop="20210915000000 +0300" channel="Gold">
+    <title lang="he">ישיר! מאלמו</title>
   </programme>
-  <programme start="20210914220000 +0300" stop="20210914232000 +0300" channel="Gold">
-    <title lang="he">תביאו לי את טייסון</title>
-  </programme>
-  <programme start="20210914232000 +0300" stop="20210914233000 +0300" channel="Gold">
-    <title lang="he">גולר</title>
-  </programme>
-  <programme start="20210914233000 +0300" stop="20210914233000 +0300" channel="Gold">
-    <title lang="he">צ'לסי</title>
-  </programme>
-  <programme start="20210914233000 +0300" stop="20210915010000 +0300" channel="Gold">
-    <title lang="he">צ'לסי</title>
+  <programme start="20210915000000 +0300" stop="20210915010000 +0300" channel="Gold">
+    <title lang="he">ישיר! סיכום הערב ה</title>
   </programme>
   <programme start="20210915010000 +0300" stop="20210915023000 +0300" channel="Gold">
     <title lang="he">יוסטון</title>
